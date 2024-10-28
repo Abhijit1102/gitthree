@@ -52,7 +52,7 @@
 
   - git clone <URL>
   - git config --global user.name "Abhijit1102"
-  - git config --global user.email "abhijityrajkumar2@gmail.com"
+  - git config --global user.email "abhijitrajkumar2@gmail.com"
 
 ## More command
 
@@ -79,4 +79,12 @@
 - git push <remote> <branch>
 - git push origin main
 - git push <remote> local-Branch : remote-branch
-- git
+- git fetch & pull : from remote(fetch : get into but dom,t put in working area, pull: get info & add in my working area)
+
+- git pull = git fetch + git merge
+- git pull origin main (change will be merged to main)
+
+## feature of github
+
+- Adding collabaration
+- codespace
